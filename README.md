@@ -3,4 +3,5 @@
 ## Scripts for basic and advanced Computer Craft Turtle functions
 
 ## Usage:
-* load into turtle file, run with specified command line args
+* Load into turtle file (mod/computercraft/turtle/number/)
+* Run with specified command line args as \[name\].lua \[args\]
